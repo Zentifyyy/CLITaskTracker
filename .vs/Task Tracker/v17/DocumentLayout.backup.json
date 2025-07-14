@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfie\\Desktop\\Projects\\Code\\cpp\\CLITaskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF841B1-F16C-45FE-BD00-8CF092E3CB0A}|Task Tracker.vcxproj|C:\\Users\\alfie\\Desktop\\Projects\\Code\\cpp\\CLITaskTracker\\Task Tracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF841B1-F16C-45FE-BD00-8CF092E3CB0A}|Task Tracker.vcxproj|solutionrelative:Task Tracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task Tracker.cpp",
+              "DocumentMoniker": "C:\\Users\\alfie\\Desktop\\Projects\\Code\\cpp\\CLITaskTracker\\Task Tracker.cpp",
+              "RelativeDocumentMoniker": "Task Tracker.cpp",
+              "ToolTip": "C:\\Users\\alfie\\Desktop\\Projects\\Code\\cpp\\CLITaskTracker\\Task Tracker.cpp",
+              "RelativeToolTip": "Task Tracker.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T18:23:10.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
